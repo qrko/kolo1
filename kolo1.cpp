@@ -1,10 +1,10 @@
-// Imie, Nazwisko, grupa(specjalnosc), nr. indeksu
+// Arkadiusz Machnik, Informatyka (Zintegrowane systemy zarzadzania i analizy danych), 101519
 
 #include <iostream>
 using namespace std;
 
 int main(int argc, char **argv) {
-  cout<<"I love git!"<<endl;
+  cout<<"I don't like git"<<endl;
   return 0;
 }
 
