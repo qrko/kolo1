@@ -1,4 +1,4 @@
-// Imie, Nazwisko, grupa(specjalnosc), nr. indeksu
+// Arkadiusz Machnik, Informatyka (Zintegrowane systemy zarzadzania i analizy danych), 101519
 
 #include <iostream>
 using namespace std;
